@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sciencetechy
-- 👀 I’m interested in Programming in Python and Scratch
-- 🌱 I’m currently learning Python
+- 👀 I program in Python and am using pygame to make games.
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Video Games
 - 📫 Reach me at adhvik.techy@gmail.com
 
