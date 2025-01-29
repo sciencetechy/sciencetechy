@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sciencetechy
-- 👀 I am working on a horror game using the unreal engine called Sinister Studies :)
-- 🌱 I’m currently learning Machine Learning
+- 👋 Hi, I’m Adhvik
+- 👀 Currently working on competetive programming
+- 🌱 I’m currently learning Machine Learning and creating projects implementing ML
 - 📫 Reach me at adhvik.techy@gmail.com
 
 <!---
