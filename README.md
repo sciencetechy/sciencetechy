@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adhvik
-- 👀 Currently working on competetive programming
+- 👀 Currently working on competitive programming
 - 🌱 I’m currently learning Machine Learning and creating projects implementing ML
 - 📫 Reach me at adhvik.techy@gmail.com
 
