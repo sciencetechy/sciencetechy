@@ -1,0 +1,26 @@
+There are n circles on a two-dimensional plane. The i-th circle is centered at (xi, yi). Initially, all circles have a radius of 0.
+The circles' radii increase at a rate of 1 unit per second.
+You are currently at (xs, ys); your goal is to reach (xt, yt) without touching the circumference of any circle (including the moment you reach (xt, yt)). You can move in any direction you want. However, your speed is limited to 1 unit per second.
+
+Please determine whether this is possible.
+
+CODE:
+t = int(input(""))
+ 
+for _ in range(t):
+    n = int(input(""))
+    ps = []
+    for i in range(n): ps.append(map(int, input("").split(" ")))
+    xs, ys, xt, yt = map(int, input("").split(" "))
+    m = abs(xt-xs)**2 + abs(yt-ys)**2
+    r=True
+    for x,y in ps:
+        val = abs(xt-x)**2 + abs(yt-y)**2
+        if m>=val:
+            r=False
+            break
+    
+    if r:
+        print("YES")
+    else:
+        print("NO")
